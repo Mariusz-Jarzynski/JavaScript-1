@@ -1,16 +1,3 @@
-console.log('--- Function ---');
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

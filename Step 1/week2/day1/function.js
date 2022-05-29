@@ -228,3 +228,46 @@ result2;
 console.log(result2);
 
 
+// Fat arrow
+
+const addTwoNumbers = (x,y) => {
+    const result = x + y;
+    console.log(result);
+    return result;
+}
+ 
+const addTwoNumbers2 = (x, y =0) => {
+  const result = x + y;
+    console.log(result);
+    return result;
+}
+
+// możemy dla obu parametrów ustawić wartości domyślne
+// zawsze pierwszy argument bedzie przypisany do x;
+
+addTwoNumbers(2);
+
+const addTwoNumbers3 = (x = 0, y =0) => {
+    const result = x + y;
+    console.log(result);
+    return result;
+}
+
+// function vs fat arrow
+// function
+const addTwoNumbers6 = function (x, y) {
+    const result = x + y;
+    console.log(result);
+    return result;
+}
+// fat arrow
+const addTwoNumbers5 = (x,y) => {
+    const result = x + y;
+    console.log(result);
+    return result;
+}
+
+// Bez wartości domyślnych gdybyśmy nie podali argumentów to otrzymalibyśmy
+// undefined w miejscu ich wykorzystania
+
+
