@@ -1,3 +1,4 @@
+// 3
 // ---- działa w Chrome lub replit
 const userName = prompt('What is your name? ');
 const userSurname = prompt('What is your surname? ');

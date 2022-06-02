@@ -1,3 +1,4 @@
+// 2
 // Day 1 - Function
 
 // funkcj sumy
@@ -138,6 +139,11 @@ const pow = num => num ** 2;
 
 // --------------
 const test = () => console.log('Test');
+
+// ----
+
+
+
 
 // day 1 - Additonal - String 2
 console.log('---day 1 - Additonal - String 2 - Own function and method');

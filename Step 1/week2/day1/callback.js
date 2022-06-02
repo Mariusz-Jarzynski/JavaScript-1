@@ -1,3 +1,4 @@
+// 4
 // CALLBACK
 
 // Funkcja wywołania zwrotnego, czyli funkcja przekazania jako agrument do funkcji i wywołana w niej

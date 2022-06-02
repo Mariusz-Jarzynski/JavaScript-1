@@ -1,3 +1,4 @@
+// 6
 // Operator rest (ES6) - wiele elementów podanych jako argumenty do jednej tablicy
 // ...nazwa (dowolna, zgodnie z zasadami dla zmiennej)
 // zwraca tablicję (arguments nie jest tablicą)
