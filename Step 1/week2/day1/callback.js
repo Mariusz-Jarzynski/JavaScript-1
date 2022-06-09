@@ -29,6 +29,10 @@ subtractOne(6);
 // callback
 console.log('\ncallback');
 
+// function count(x, callback) {
+//    return callback(x);
+// }
+
 const result = count(10, addOne);
 
 // 2. Przykład callback
