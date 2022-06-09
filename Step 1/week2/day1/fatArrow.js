@@ -1,6 +1,10 @@
 // 1
 // Day 1 (6) - Fat arrow - funkcja strzałkowa
 
+function functionName(param1, param2) {
+    return param1 + param2;
+}
+
 function myFunction(x, y) {
     return x + y;
 }

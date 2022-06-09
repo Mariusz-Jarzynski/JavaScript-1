@@ -66,7 +66,8 @@ setInterval(showTime, 4000);
 // 4. Przykład callback
 const userAge = [20, 15, 55, 35, 95, 45, 18];
 
-userAge.forEach(userAge => console.log(`user age is: ${userAge}`))
+userAge.forEach(userAge => console.log(`user age is: ${userAge}`));
+userAge.forEach(a => console.log(`user age is: ${a}`)); // we can use any name like a;
 
 //
 userAge.forEach(function (userAge) {

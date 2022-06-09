@@ -1,4 +1,5 @@
-// exercises
+// 2
+// exercise
 // Za pomocą Prompt w Chrome wprowadź 3 razy imię i nazwisko (do tablicy i wyświetlić)
 // prompt - dziąła w Chrome
 
