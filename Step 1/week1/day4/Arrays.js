@@ -61,7 +61,7 @@ console.log(array2);
 console.log('\nSecond - removing last element');
 // 2. Cut last index
 console.log(array2);
-// Cut item is a Array and we can use it
+// Cut item is an Array and we can use it
 let deletedLastElement = array2.splice(array2.length -1);
 console.log(deletedLastElement);
 console.log(array2);

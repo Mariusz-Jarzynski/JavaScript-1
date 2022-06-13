@@ -1,3 +1,4 @@
+// 1
 // about:blank - about dwukropek blank - w Chrome, w pasku adresu wpisujemy aby pojawiła się czysta, pusta strona
 // Chorme F12 i wyskakuje wersja deweloperska
 

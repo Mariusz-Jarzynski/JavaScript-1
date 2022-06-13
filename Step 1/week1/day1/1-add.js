@@ -1,3 +1,4 @@
+// 2
 // typeof - operator, który zwraca informacje o typie
 console.log(3 + 3);
 
@@ -53,3 +54,15 @@ console.log('24');
 
 // tablica jakigeo jest typu? Object
 console.log(typeof [1,2,3]);
+
+console.log('--- czy podana wartość jest liczbą?'); // --------------
+
+const num1 = 15;
+const num2 = 'Cztery';
+
+console.log(typeof num1);
+console.log(typeof num2);
+
+// czy podana wartość jest rożna od number. Uwaga musimy wpisać number a nie zwykły tekst
+console.log((typeof num1 !== 'number'));
+console.log((typeof num2 !== 'number'));
