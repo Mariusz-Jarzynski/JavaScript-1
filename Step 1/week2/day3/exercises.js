@@ -40,6 +40,7 @@ const obj1 = {
     hasAvatar: true,
 };
 
+// 1 rozwiązanie
 function filter(obj) {
     const obj2 = {
         id: obj.id,
@@ -62,7 +63,7 @@ function filter2(obj) {
 
 console.log(filter2(obj1));
 
-// 3 rozwiązanie
+// 3 rozwiązanie od MegaK
 console.log('---');
 
 function filter3(obj) {

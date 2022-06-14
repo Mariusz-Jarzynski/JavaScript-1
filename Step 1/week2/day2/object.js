@@ -110,8 +110,10 @@ const person3 = {
 person2.sayMe();
 person3.sayMe();
 
-console.log('\n--- Konstruktory to zwykłe funkcje. Nazwy konstruktorów piszemy z wielkiej litery ---');
+
 // --- Konstruktory to zwykłe funkcje. Nazwy konstruktorów piszemy z wielkiej litery
+console.log('\n--- Konstruktory to zwykłe funkcje. Nazwy konstruktorów piszemy z wielkiej litery ---');
+
 function Person(newName, newSurname) {
     this.name = newName;
     this.surname = newSurname;
