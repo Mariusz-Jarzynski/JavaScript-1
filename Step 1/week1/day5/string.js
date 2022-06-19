@@ -64,6 +64,11 @@ console.log(name1Slice2);
 
 // slice(2, -2) - można podawać z minusem i liczy np dwa do końca
 
+
+// kopia tablicy - czyli wyciąć wszyskto od wskazanego nr indexu i przypisać do nowej tablicy
+
+const arrayCopy = name1.slice(0);
+
 // concat - łączenie
 'Hello'.concat(' World');
 console.log('Hello'.concat(' World'));

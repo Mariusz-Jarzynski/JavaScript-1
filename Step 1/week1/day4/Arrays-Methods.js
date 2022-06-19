@@ -63,5 +63,9 @@ console.log(spreadArray2);
 // SPLICE - removing items
 spreadArray2.splice();
 
+// kopia tablicy - czyli wyciąć wszyskto od wskazanego nr indexu i przypisać do nowej tablicy
+
+const arrayCopy = spreadArray2.slice(0);
+
 
 
